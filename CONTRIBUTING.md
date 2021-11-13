@@ -2,7 +2,7 @@
 We want to make contributing to this project as easy and transparent as possible.You can help this project by reporting problems, suggestions, locating it or contributing to the code.
 
 ### Report a problem or suggestion
-Go to our [issue] and check if your problem / suggestion has already been reported. Otherwise, create a new issue with a descriptive title and detail your suggestion or steps to reproduce the issue. A good bug report should not let others need to chase you for more training. Please try to be as detailed as possible in your report.
+Go to our [issue](https://github,com/Commaders/wifipumpkin3/issue) and check if your problem / suggestion has already been reported. Otherwise, create a new issue with a descriptive title and detail your suggestion or steps to reproduce the issue. A good bug report should not let others need to chase you for more training. Please try to be as detailed as possible in your report.
 
 ### Repository
 This repository has some features in order to facilitate the organization of work.
