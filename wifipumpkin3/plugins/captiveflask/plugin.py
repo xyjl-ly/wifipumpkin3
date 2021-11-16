@@ -4,7 +4,7 @@ import wifipumpkin3.core.utility.constants as C
 # This file is part of the wifipumpkin3 Open Source Project.
 # wifipumpkin3 is licensed under the Apache 2.0.
 
-# Copyright 2020 P0cL4bs Team - Marcos Bomfim (mh4x0f)
+# Copyright 2021 Commaders Team - Marcos Bomfim (mh4x0f)
 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
